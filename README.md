@@ -12,4 +12,4 @@ pip install opencv-contrib-python
 pip install caer
 ```
 
-Now, just type the command ``python example.py``
+Finally, just type the command ``python example.py``
